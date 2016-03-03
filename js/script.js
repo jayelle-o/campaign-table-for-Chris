@@ -39,7 +39,7 @@ function writeTable(data) {
 				//console.log(date, info, amount, committee);
 
 				$(".chart").append(
-					'<tr>+<td>'+date+'</td>+<td class="info">'+info+'</td>+<td class="amount">'+amount+'</td>+</tr>'
+					'<tr>+<td>'+date+'</td>+<td class="infos">'+info+'</td>+<td class="amount">'+amount+'</td>+</tr>'
 				);
 			}
 	}	
