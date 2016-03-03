@@ -6,4 +6,19 @@ in your index.html and script.js files. */
 
 .chart {
   height: 500px;
+  font-size: 100%;
+
+}
+
+.amount {
+    float: right;
+
+}
+
+.info {
+    padding-left: 15px;
+}
+
+.header-amount {
+    float:right;    
 }
